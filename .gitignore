@@ -1,0 +1,13 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+
+# Visual Studio Code
+.vscode
+
+
+build/
+bin/
+obj/
